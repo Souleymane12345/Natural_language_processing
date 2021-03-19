@@ -6,6 +6,6 @@ A co-occurrence matrix,
 Determination of the similarity of words
 Graphic representation of data
 
-The repository is functional, you just have to download the glove dataset.
+The repository is functional in the master branch,, you just have to download the glove dataset.
 
 The readme is being written.
